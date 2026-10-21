@@ -10,7 +10,7 @@
 		},
 		{
 			"key": "baseUrl",
-			"value": "",
+			"value": "https://gorest.co.in/public/v2",
 			"type": "default",
 			"enabled": true
 		},
